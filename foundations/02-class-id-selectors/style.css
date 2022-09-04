@@ -1,0 +1,20 @@
+div {
+    font-size: 32px;
+    color: blueviolet;
+}
+.N2 {
+    font-size: 36px;
+    color: blue;
+}
+
+p {
+    background-color: lightpink;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.N4 {
+    font-size:24px; 
+    font-weight: bold;
+    color: black; 
+    background-color: lightgreen;
+}
